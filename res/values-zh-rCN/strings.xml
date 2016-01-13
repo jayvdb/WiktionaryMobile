@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">维基百科</string>
+	<string name="app_name">维基词典</string>
 </resources>
